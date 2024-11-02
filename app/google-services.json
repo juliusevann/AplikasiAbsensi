@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051390534712",
+    "project_id": "utsmaplab-98b4a",
+    "storage_bucket": "utsmaplab-98b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051390534712:android:bb9928d02c2075522472cd",
+        "android_client_info": {
+          "package_name": "com.example.utsmaplab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelZpYW6n03VgNd_owOoAqd1V7OsieLIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
